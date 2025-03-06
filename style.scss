@@ -70,7 +70,7 @@ header {
 
 header h1 {
   margin: 0;
-  font-family: "游明朝体", "Yu Mincho", "YuMincho";
+  font-family: "游明朝体", "Yu Mincho", "YuMincho", "Noto Serif JP";
   font-size: rem(20);
 }
 
@@ -85,7 +85,7 @@ header ul {
   height: auto;
   flex-direction: row;
   font-size: rem(18);
-  font-family: "游明朝体", "Yu Mincho", "YuMincho";
+  font-family: "游明朝体", "Yu Mincho", "YuMincho", "Noto Serif JP";
   list-style: none;
   overflow: visible;
 }
@@ -113,7 +113,7 @@ header ul li a {
 .fast-view > h2 {
   display: flex;
   justify-content: center;
-  font-family: "游明朝体", "Yu Mincho", "YuMincho";
+  font-family: "游明朝体", "Yu Mincho", "YuMincho", "Noto Serif JP";
   font-size: rem(40);
   position: absolute;
   top: rem(339);
@@ -135,7 +135,7 @@ header ul li a {
 .main_about_text {
   display: flex;
   flex-direction: row-reverse;
-  font-family: "游明朝体", "Yu Mincho", "YuMincho";
+  font-family: "游明朝体", "Yu Mincho", "YuMincho", "Noto Serif JP";
   margin: 0;
   margin-top: rem(115);
 }
@@ -176,7 +176,7 @@ header ul li a {
 .main_company,
 .main_contact {
   padding: rem(80);
-  font-family: "游明朝体", "Yu Mincho", "YuMincho";
+  font-family: "游明朝体", "Yu Mincho", "YuMincho", "Noto Serif JP";
 
   > h2 {
     font-size: rem(30);
@@ -281,7 +281,7 @@ header ul li a {
 
       h4 {
         margin-top: rem(19);
-        font-family: "游明朝体", "Yu Mincho", "YuMincho";
+        font-family: "游明朝体", "Yu Mincho", "YuMincho", "Noto Serif JP";
         font-size: rem(16);
         font-weight: 500;
         line-height: calc(25/16);
@@ -698,7 +698,7 @@ header ul li a {
     h4 {
       margin: rem(9) 0 rem(6) 0;
       font-size: rem(16);
-      font-family: "游明朝体", "Yu Mincho", "YuMincho";
+      font-family: "游明朝体", "Yu Mincho", "YuMincho", "Noto Serif JP";
     }
 
     img {
@@ -750,7 +750,7 @@ footer {
     flex-direction: column;
     align-items: center;
     padding: rem(80) rem(180);
-    font-family: "游明朝体", "Yu Mincho", "YuMincho";
+    font-family: "游明朝体", "Yu Mincho", "YuMincho", "Noto Serif JP";
 
     h3 {
       font-weight: normal;
@@ -790,7 +790,7 @@ footer {
       color: white;
       font-size: rem(20);
       text-align: center;
-      font-family: "游明朝体", "Yu Mincho", "YuMincho";
+      font-family: "游明朝体", "Yu Mincho", "YuMincho", "Noto Serif JP";
     }
   }
 }
