@@ -778,6 +778,7 @@ footer .footer_copyright p {
     height: 0;
     transition: height 500ms, visibility 500ms;
     overflow: hidden;
+    z-index: 10;
   }
   header ul li {
     box-sizing: border-box;

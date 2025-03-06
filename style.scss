@@ -872,6 +872,7 @@ footer {
       height: 0;
       transition: height 500ms, visibility 500ms;
       overflow: hidden;
+      z-index: 10;
 
       li {
         box-sizing: border-box;
