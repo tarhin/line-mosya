@@ -111,6 +111,11 @@ $(document).on('ready', function() {
     $('.header_menu_button').toggleClass('close');
     $('header ul').toggleClass('open');
   });
+
+  $('header ul li a').click(function() {
+    $('.header_menu_button').removeClass('close');
+    $('header ul').removeClass('open');
+  });
 }
 
 {
